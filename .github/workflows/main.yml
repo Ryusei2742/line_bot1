@@ -33,7 +33,7 @@ jobs:
       - name: Run script
         run: |
           # main.pyの実行
-          python linebot1.py
+          python main.py
 
 ```
 
