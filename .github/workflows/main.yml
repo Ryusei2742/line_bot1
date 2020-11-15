@@ -9,8 +9,8 @@ name: chatbot
 # 詳しくは github actions on で検索、ワークフローをトリガーするイベント
 on:
 #   push:
-  schedule:
-    - cron: '0 3 * * *'
+#  schedule:
+#    - cron: '0 3 * * *'
 
 jobs:
   build:
